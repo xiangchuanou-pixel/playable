@@ -1,0 +1,8 @@
+{
+    "name": "playable",
+    "compatibility_date": "2026-08-04",
+    "assets": {
+        "directory": ".",
+        "html_handling": "none"
+    }
+}
